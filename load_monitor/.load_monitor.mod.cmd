@@ -1,0 +1,1 @@
+cmd_/root/CLionProjects/kernel_study/load_monitor/load_monitor.mod := { echo  /root/CLionProjects/kernel_study/load_monitor/main.o;  echo; } > /root/CLionProjects/kernel_study/load_monitor/load_monitor.mod

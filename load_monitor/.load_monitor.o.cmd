@@ -1,0 +1,1 @@
+cmd_/root/CLionProjects/kernel_study/load_monitor/load_monitor.o := ld -m elf_x86_64  -z max-page-size=0x200000    -r -o /root/CLionProjects/kernel_study/load_monitor/load_monitor.o /root/CLionProjects/kernel_study/load_monitor/main.o
