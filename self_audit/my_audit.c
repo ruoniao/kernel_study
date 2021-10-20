@@ -3,7 +3,7 @@
 #include <linux/slab.h>
 #include <linux/sched.h>
 #include <linux/uaccess.h>
-
+#include <linux/nospec.h>
 #define COMM_SIZE 16
 #define AUDIT_BUF_SIZE 20
 
